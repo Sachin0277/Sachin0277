@@ -60,11 +60,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sachin0277&theme=radical)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin0277&theme=radical&show_icons=true)
-<div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin0277&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
- </div>
  
  ### 🎆: My Contribution :
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sachin0277&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
