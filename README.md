@@ -24,13 +24,13 @@
 <hr/>
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
+I am Frontend Novice Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
 
-- :telescope: I’m currently a student  and contributing to frontend and backend for building web applications.
+- :telescope: I’m currently a student  and contributing to frontend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks ,Leetcode, Codeforces and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sachin0278-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sachinyadav0278)
 
@@ -64,7 +64,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin0277&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
  ### 🎆: My Contribution :
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sachin0277&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sachin's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sachin0277&theme=redical)](https://github.com/Sachin0277/github-readme-activity-graph)
 
 
 
