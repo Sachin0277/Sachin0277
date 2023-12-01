@@ -54,13 +54,13 @@ I am a Frontend Novice Developer and a competitive programming <img src="https:/
 <hr/>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sachin0277&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sachin0277&theme=radical)](https://git.io/streak-stats)
 ![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin0277&theme=radical&show_icons=true)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin0277&layout=compact&theme=vision-friendly-dark)](https://github.com/sachin0277/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin0277&layout=compact&theme=vision-friendly-dark)](https://github.com/sachin0277/github-readme-stats)
  
  ### 🎆: My Contribution :
-[![Sachin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sachin0277&theme=rogue)](https://github.com/Sachin0277/github-readme-activity-graph)
+[![Sachin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sachin0277&theme=rogue)](https://github.com/sachin0277/github-readme-activity-graph)
 
 
 
